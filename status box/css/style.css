@@ -1,0 +1,75 @@
+.logo{
+
+  margin: 0 auto;
+  padding-left: 70px;
+}
+
+
+.instagram img{
+  width: 20%;
+  height: 20%;
+
+}
+
+.instagram{
+  padding-left:1000px;
+  margin-top: 0px;
+}
+
+
+html,
+body {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  background-color: yellow;
+
+}
+
+.container {
+  width: 600px;
+  margin-top: 190px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 40px;
+
+}
+
+.button-group {
+  margin-bottom:10px;
+}
+
+.counter {
+  
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 10px;
+}
+
+.posts {
+  
+  list-style: none;
+  padding-left: 0;
+  width: 100%;
+}
+
+.posts li {
+ 
+  
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  min-height: 42px;
+}
+
+
+footer{
+  border: 1px solid black;
+  margin:  auto;
+  color: black;
+font-size: 10px;
+padding-left: 680px;
+margin-top: 400px;
+
+
+}
